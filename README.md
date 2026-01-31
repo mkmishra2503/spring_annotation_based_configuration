@@ -47,8 +47,8 @@ spring-annotation-based-configuration/
 │
 ├── .classpath                     # Eclipse classpath config
 ├── .project                       # Eclipse project config
-├── .gitignore.txt                 # Git ignored files list
-└── README.md.txt                  # Project documentation
+├── .gitignore                     # Git ignored files list
+└── README.md                      # Project documentation
 
 ---
 
