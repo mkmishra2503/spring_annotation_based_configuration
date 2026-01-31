@@ -50,9 +50,6 @@ spring-annotation-based-configuration/
 ├── .gitignore.txt                 # Git ignored files list
 └── README.md.txt                  # Project documentation
 
-
-
-
 ---
 
 ## 🧩 Key Annotations Used
@@ -62,8 +59,6 @@ spring-annotation-based-configuration/
 - `@Configuration`
 - `@ComponentScan`
 - `@Bean`
-
----
 
 ---
 
@@ -86,70 +81,59 @@ spring-annotation-based-configuration/
 
 ---
 
-
----
-
-## 🧩 Key Annotations Used
-
-- `@Component`
-- `@Autowired`
-- `@Configuration`
-- `@ComponentScan`
-- `@Bean`
-
----
-
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/spring-annotation-config.git
+git clone: https://github.com/mkmishra2503/spring_annotation_based_configuration.git
+```
+---
 
-2️⃣ Open in Eclipse
+### 2️⃣ Open in Eclipse
 
-Open Eclipse
+- Open Eclipse
+- File → Import → Existing Projects into Workspace
+- Select the project folder
 
-File → Import → Existing Projects into Workspace
+### 3️⃣ Run the Application
 
-Select the project folder
+- Go to MainApp.java
+- Right click → Run As → Java Application
 
-3️⃣ Run the Application
+---
 
-Go to MainApp.java
-
-Right click → Run As → Java Application
-
-📸 Output Screenshot
 ## 🖼️ Screenshots
 
-### 🔹 Application Output
-![Application Output](screenshots/output.png)
-
+### 🔹 Console Output
+![Console Output](screenshots/output.png)
 
 Application output after successful execution:
 
-🎯 Learning Objectives
+---
 
-Understand Spring Annotation-based Configuration
+## 🎯 Learning Objectives
 
-Learn Dependency Injection without XML
+- Understand Spring Annotation-based Configuration
+- Learn Dependency Injection without XML
+- Improve project structure for real-world applications
+- Create professional GitHub repositories
 
-Improve project structure for real-world applications
+---
 
-Create professional GitHub repositories
+## 🚀 Future Enhancements
 
-🚀 Future Enhancements
+- Add Spring XML & Java Config comparison
+- Convert project to Spring Boot
+- Add database integration (JDBC/JPA)
 
-Add Spring XML & Java Config comparison
-
-Convert project to Spring Boot
-
-Add database integration (JDBC/JPA)
+---
 
 👨‍💻 Author
 
 Mithilesh Kumar Mishra
 Java Developer | Spring Framework Enthusiast
+
+---
 
 ⭐ Support
 
