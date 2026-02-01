@@ -24,6 +24,7 @@ It helps in understanding **IoC (Inversion of Control)** and **Dependency Inject
 
 ## 📂 Project Structure
 
+```text
 spring-annotation-based-configuration/
 │
 ├── .settings/                     # Eclipse IDE settings
@@ -49,6 +50,7 @@ spring-annotation-based-configuration/
 ├── .project                       # Eclipse project config
 ├── .gitignore                     # Git ignored files list
 └── README.md                      # Project documentation
+```
 
 ---
 
